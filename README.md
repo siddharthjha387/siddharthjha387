@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Siddharth Jha [website] 👋 
+### Hi there, I'm Siddharth Jha [My Portfolio][portfolio] 👋 
 
 [![Website](https://img.shields.io/website?label=CodingwithSid&style=for-the-badge&url=https%3A%2F%2Fwww.codingwithsid.in)](https://www.codingwithsid.in)
 
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthjha387)](https://github.com/siddharthjha387/github-readme-stats)
 
-</details>
 
+[portfolio]:https://siddharthjha.me
 [website]: https://www.codingwithsid.in/
 [instagram]: https://www.instagram.com/siddharth_jha39/
 [linkedin]: https://www.linkedin.com/in/siddharth-8172261b3/
