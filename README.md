@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthjha387)](https://github.com/siddharthjha387/github-readme-stats)
 
 
-[portfolio]:http://siddharthjha.herokuapp.com/
+[portfolio]:https://siddharthjha.herokuapp.com/
 [website]: https://www.codingwithsid.in/
 [instagram]: https://www.instagram.com/siddharth_jha39/
 [linkedin]: https://www.linkedin.com/in/siddharth-8172261b3/
