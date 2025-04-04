@@ -11,12 +11,6 @@ I'm a passionate developer with a strong background in front-end technologies. I
 - 💬 Ask me about front-end development, Angular, React, and anything tech!
 - 📫 How to reach me: [LinkedIn][linkedin] | [Instagram][instagram]
 
-## 🌐 Connect with Me:
-
-[<img align="left" alt="Siddharth Jha | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Siddharth Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Siddharth Jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ## 📊 GitHub Stats
