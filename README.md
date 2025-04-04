@@ -6,7 +6,7 @@
 I'm a passionate developer with a strong background in front-end technologies. I enjoy solving complex problems and constantly learning new skills to enhance my craft.
 
 - 🔭 I’m currently working at Josh Technology Group, focusing on developing **Pod.AI**, a career development platform.
-- 🌱 I’m currently expanding my skills in React and Material-UI.
+- 🌱 I’m currently expanding my skills in React, Angular and .Net.
 - 👯 I’m looking to collaborate on innovative and challenging projects.
 - 💬 Ask me about front-end development, Angular, React, and anything tech!
 - 📫 How to reach me: [LinkedIn][linkedin] | [Instagram][instagram]
@@ -28,4 +28,4 @@ I'm a passionate developer with a strong background in front-end technologies. I
 [portfolio]: https://siddharth.codingwithsid.in/
 [website]: https://www.codingwithsid.in/
 [instagram]: https://www.instagram.com/siddharth_jha387/
-[linkedin]: https://www.linkedin.com/in/siddharth-8172261b3/
+[linkedin]: https://www.linkedin.com/in/siddharth-jha73/
